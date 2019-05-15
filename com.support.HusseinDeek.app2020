@@ -1,5 +1,15 @@
 <rss>
     <channel>
+      <item>
+        <imag img="aaaaaa"/>
+        <title> رفقاتي اخواتي</title>
+    <enclosure url="https://ia601405.us.archive.org/9/items/HusseinDeek/1.mp3"/>
+ </item>
+ <item>
+        <imag img="aaaaaa"/>
+        <title>كلمة اعطيني</title>
+    <enclosure url="https://ia601405.us.archive.org/9/items/HusseinDeek/2.mp3"/>
+ </item>
         <item>
             <imag img="https://files.elnashra.com/elnashrafan/imagine/pictures_728/7413150_1506931542.JPG"/>
             <title>معك عالموت</title>
